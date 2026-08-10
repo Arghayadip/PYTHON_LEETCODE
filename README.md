@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
+| [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
