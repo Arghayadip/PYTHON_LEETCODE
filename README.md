@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
