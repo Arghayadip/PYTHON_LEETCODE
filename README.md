@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
