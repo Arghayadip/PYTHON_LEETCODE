@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
