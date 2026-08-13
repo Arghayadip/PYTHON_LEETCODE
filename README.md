@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
