@@ -1,22 +1,18 @@
 class Solution(object):
     def strStr(self, haystack, needle):
-        """
-        :type haystack: str
-        :type needle: str
-        :rtype: int
-        """
-        if len(haystack) < len(needle):
+        n = len(haystack)
+        m = len(needle)
+
+        if m > n:
             return -1
-        i = 0
-        count = 0
-        while i<=len(haystack) - len(needle):
-            j =0
-            while j<len(needle):
-                if haystack[i+j] == needle[j]:
-                    j += 1
-                else:
-                    break
-            if j == len(needle):
+
+        for i in range(n - m + 1):
+            j = 0
+
+            while j < m and haystack[i + j] == needle[j]:
+                j += 1
+
+            if j == m:
                 return i
-            i+=1
+
         return -1
