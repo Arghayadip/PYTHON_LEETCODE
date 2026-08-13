@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0125-valid-palindrome) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -146,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
