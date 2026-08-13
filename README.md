@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
+| [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
