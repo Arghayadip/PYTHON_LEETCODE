@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
