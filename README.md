@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [3794-reverse-string-prefix](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
