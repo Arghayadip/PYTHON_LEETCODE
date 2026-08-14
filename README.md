@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [3794-reverse-string-prefix](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
