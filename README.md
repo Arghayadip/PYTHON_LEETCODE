@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
