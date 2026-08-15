@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
