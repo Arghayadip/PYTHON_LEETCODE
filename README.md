@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0706-design-hashmap) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
