@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0706-design-hashmap) |
 | [0941-valid-mountain-array](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Arghayadip/PYTHON_LEETCODE/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
