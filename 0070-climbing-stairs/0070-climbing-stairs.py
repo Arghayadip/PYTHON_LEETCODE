@@ -4,9 +4,10 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n <=2: return n
-        a = 1
-        b = 2
-        for i in range(3,n+1):
-            a,b = b, a+b
-        return b
+        if n <= 2:
+            return n
+        prev2, prev1 = 1, 2
+        for _ in range(3, n + 1):
+            prev2, prev1 = prev1, prev2 + prev1
+        
+        return prev1
